@@ -1,3 +1,4 @@
+# VoidLinux-Script-Manager
 ## What is it:
 - A manager for my favourite voidlinux scripts.
 - It downloads scripts from the internet.
@@ -16,3 +17,13 @@
 3. Run Cached Version of: Voidlinux-Post-Install-TUI by squidnose
 4. Run Cached Version of: void-install-script by kkrruumm
 5. Run normal void-installer (Live system only)
+
+# How to use it
+in the terminal:
+```
+sudo xbps-install -Syu xbps
+sudo xbps-install -Syu git
+git clone https://github.com/squidnose/VoidLinux-Script-Manager
+cd VoidLinux-Script-Manager
+./script-manager.sh
+```
