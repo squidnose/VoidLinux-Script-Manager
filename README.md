@@ -1,6 +1,4 @@
 #  WORK IN PROGRESS
-# Linux-Tools-For-HW
-A colection of linux tools for HW info and Managment. 
 ## Goals:
 - [ ] A manager for my favourite voidlinux scripts.
 - [ ] It will download and manage scripts from the internet.
